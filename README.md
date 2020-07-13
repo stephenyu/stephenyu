@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a software Engineer at [Canva](https://www.canva.com/) in Sydney, Australia.
+- 🔭 I’m currently working as a Software Engineer at [Canva](https://www.canva.com/) in Sydney, Australia.
 - 🌱 I’m currently learning about [Rust](https://www.rust-lang.org/) and [Recoil](https://github.com/facebookexperimental/Recoil).
 - 💬 Talk to me about [Google Lighthouse](https://github.com/GoogleChrome/lighthouse) and all things related to auditing web performance.
 
