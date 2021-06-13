@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working as a Senior Software Engineer at [Canva](https://www.canva.com/) in Sydney, Australia.
-- 🌱 I’m currently learning about [Rust](https://www.rust-lang.org/) and [Recoil](https://github.com/facebookexperimental/Recoil).
+- 🔭 Senior Software Engineer at [Canva](https://www.canva.com/) in Sydney, Australia.
+- 🌱 Learning about [Rust](https://www.rust-lang.org/) and [Recoil](https://github.com/facebookexperimental/Recoil)- 🔧 Often can be found tin
 - 💬 Talk to me about [Google Lighthouse](https://github.com/GoogleChrome/lighthouse) and all things related to auditing web performance.
 
 <!--
