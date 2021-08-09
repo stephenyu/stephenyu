@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Senior Software Engineer at [Canva](https://www.canva.com/) in Sydney, Australia.
+- 🔭 Group Engineering Lead at [Canva](https://www.canva.com/) in Sydney, Australia.
 - 🌱 Learning about [Rust](https://www.rust-lang.org/) and [Recoil](https://github.com/facebookexperimental/Recoil)
 - 💬 Talk to me about [Google Lighthouse](https://github.com/GoogleChrome/lighthouse) and all things related to auditing web performance.
 
